@@ -97,7 +97,8 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here (e.g., login page, chat interface, etc.)_
+![image](https://github.com/user-attachments/assets/dab11b84-4a7f-4959-aa0b-5aae7f2c853d)
+
 
 ---
 
