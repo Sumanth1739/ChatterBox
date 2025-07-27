@@ -5,3 +5,6 @@ actually pages contains the user interface and respective function
 
 
 all external connection(backend connection) will be happen through store functions and major try-catch blocks also are present their
+
+
+this pages call the respective components in the componenets section
