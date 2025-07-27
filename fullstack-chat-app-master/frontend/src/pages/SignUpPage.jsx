@@ -25,7 +25,7 @@ const SignUpPage = () => {
 
     return true;
   };
-
+//handle submit calls the signup function(whihch is loacated in checkAuthStore)
   const handleSubmit = (e) => {
     e.preventDefault();
 
@@ -33,7 +33,7 @@ const SignUpPage = () => {
 
     if (success === true) signup(formData);
   };
-//below is the ui
+//below is the user interface
   return (
     <div className="min-h-screen grid lg:grid-cols-2">
       {/* left side */}
