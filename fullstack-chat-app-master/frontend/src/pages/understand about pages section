@@ -2,3 +2,6 @@ actually pages contains the user interface and respective function
 1)if in case of login page on handle submit we send the data(send the form data) to checksuthstore function login
 2)if in case of signup page on handle submit we send the data(send the form data) to checksuthstore function login
 3)if in case of setting page we only have option to change the themes no other external callings(only usethemestrore)
+
+
+all external connection(backend connection) will be happen through store functions and major try-catch blocks also are present their
