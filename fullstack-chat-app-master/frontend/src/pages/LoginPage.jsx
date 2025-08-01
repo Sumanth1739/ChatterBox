@@ -11,7 +11,7 @@ const LoginPage = () => {
     password: "",
   });
   const { login, isLoggingIn } = useAuthStore();
-
+//this the function take the form data on clicking the submit it gives the form data to login function which resides in the stores it send the data to the backend and get the response 
   const handleSubmit = async (e) => {
     e.preventDefault();
     login(formData);
